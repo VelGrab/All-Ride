@@ -19,3 +19,16 @@ Para ejecutar este proyecto, deberá agregar las siguientes variables de entorno
 
 `VERIFY_TOKEN` = 250bd75493c59e8146798e43fff8370893b1bd76052533a7428a4e182eddd8b4fd1eed201dbfdd19491b0595cd9b2acda44fc47fff0f0e28d5fe17c662ace665
 
+GET http://localhost:3001/
+
+[![1.png](https://i.postimg.cc/7PRgCg1F/1.png)](https://postimg.cc/4nzKqHSP)
+
+[![2.png](https://i.postimg.cc/4x2KMG8r/2.png)](https://postimg.cc/MnRKMCJD)
+
+# Conclusiones
+
+La experiencia durante el desarrollo de esta aplicacion estuvo llena de retos por resolver los cuales pienso que son la mejor manera de seguir superandome cada dia. Asi como tambien investigacion acerca de la formula de Haversine para el calculo de dos puntos en nuestro planeta tierra.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-julio-cesar.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-pena/)
